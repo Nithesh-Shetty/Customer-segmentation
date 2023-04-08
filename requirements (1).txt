@@ -1,5 +1,7 @@
 pandas
-sklearn
+sklearn.preprocessing
+sklearn.decomposition
+sklearn.cluster
 streamlit 
 numpy
 warnings
