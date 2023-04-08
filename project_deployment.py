@@ -14,8 +14,6 @@ import numpy as np
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans
-import warnings
-warnings.filterwarnings("ignore")
 
 df=pd.read_excel("marketing_campaign1.xlsx")
 
